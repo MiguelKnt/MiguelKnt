@@ -32,7 +32,20 @@ Here are the certifications that showcase my skills and knowledge:
 
 Check out some of the key projects I've worked on:
 
-| Project Title                  | Preview                                                                 | Description                                                               |
-|--------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| **Elastic SIEM Setup**         | [![Elastic SIEM Preview](https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg)](https://github.com/MiguelKent/elastic-siem-project) | Configured and deployed an Elastic SIEM to monitor system logs and create custom alerts for network activity. |
-| **Nessus Vulnerability Scan**  | [![Nessus Preview](https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg)](https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning) | Used Nessus to perform vulnerability scans and remediate issues found in a home lab environment.                |
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="110" style="margin-right: 10px;">
+  <div>
+    <strong>I configured and deployed an Elastic SIEM</strong><br>
+    Monitored system logs and created custom alerts for network activity.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="110" style="margin-right: 10px;">
+  <div>
+    <strong> I used Nessus to perform vulnerability scans</strong><br>
+    Remediated issues found in a home lab environment.
+  </div>
+</div>
