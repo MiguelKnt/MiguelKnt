@@ -1,8 +1,13 @@
-# Hello, I'm Miguel Kent! 👋
+# Hello, I'm Miguel! 👋
 
 **Cybersecurity Enthusiast | IT Professional | Continuous Learner**
 
-Welcome to my GitHub profile! I am passionate about cybersecurity, network protection, and building secure systems. With multiple certifications in cloud services, network security, and IT operations, I continuously strive to improve my skills and contribute to the tech community. Explore my repositories and check out the projects I've been working on!
+Welcome to my GitHub profile! I am passionate about cybersecurity, network protection, and building secure systems. Explore my repositories and check out the projects I've been working on!
+
+<p align="left">
+  <a href="mailto:miguelkent3@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/miguelkent/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
@@ -52,8 +57,4 @@ Check out some of the key projects I've worked on:
 
 ---
 
-## 💬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelkent/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:miguelkent3@gmail.com)
 
