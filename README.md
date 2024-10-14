@@ -32,34 +32,7 @@ Here are the certifications that showcase my skills and knowledge:
 
 Check out some of the key projects I've worked on:
 
-- **[Elastic SIEM Setup](https://github.com/MiguelKent/elastic-siem-project)**  
-  Configured and deployed an Elastic SIEM to monitor system logs and create custom alerts for network activity.
-
-- **Nessus Vulnerability Scan**  
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning">
-          <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="150" style="border-radius: 5px;"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  Used Nessus to perform vulnerability scans and remediate issues found in a home lab environment.
-
-- **[AWS Cloud Architecture](https://github.com/MiguelKent/aws-cloud-architecture)**  
-  Designed a scalable and secure AWS cloud infrastructure for web applications, focusing on security and performance.
-
-- **[Azure Security Policy Implementation](https://github.com/MiguelKent/azure-security-project)**  
-  Implemented security policies in an Azure environment, focusing on network security and identity management.
-
-
-
----
-
-## 🌱 What I'm Learning
-
-- Strengthening my knowledge in **Incident Response** and **Ethical Hacking**.
-- Preparing for the **CISSP** certification.
-
----
+| Project Title                  | Preview                                                                 | Description                                                               |
+|--------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Elastic SIEM Setup**         | [![Elastic SIEM Preview](https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg)](https://github.com/MiguelKent/elastic-siem-project) | Configured and deployed an Elastic SIEM to monitor system logs and create custom alerts for network activity. |
+| **Nessus Vulnerability Scan**  | [![Nessus Preview](https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg)](https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning) | Used Nessus to perform vulnerability scans and remediate issues found in a home lab environment.                |
