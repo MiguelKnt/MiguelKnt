@@ -35,7 +35,16 @@ Check out some of the key projects I've worked on:
 - **[Elastic SIEM Setup](https://github.com/MiguelKent/elastic-siem-project)**  
   Configured and deployed an Elastic SIEM to monitor system logs and create custom alerts for network activity.
 
-- **[Nessus Vulnerability Scan](https://github.com/MiguelKent/nessus-scan-project)**  
+- **Nessus Vulnerability Scan**  
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning">
+          <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="150" style="border-radius: 5px;"/>
+        </a>
+      </td>
+    </tr>
+  </table>
   Used Nessus to perform vulnerability scans and remediate issues found in a home lab environment.
 
 - **[AWS Cloud Architecture](https://github.com/MiguelKent/aws-cloud-architecture)**  
@@ -43,6 +52,8 @@ Check out some of the key projects I've worked on:
 
 - **[Azure Security Policy Implementation](https://github.com/MiguelKent/azure-security-project)**  
   Implemented security policies in an Azure environment, focusing on network security and identity management.
+
+
 
 ---
 
