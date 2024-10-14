@@ -10,7 +10,7 @@ I'm an IT Support Analyst with a deep passion for cybersecurity, network protect
 - 🔧 IT Support & Troubleshooting
 - 📊 Network Protection & Vulnerability Scanning
 
-Check out my repositories to see the projects I've been working on
+🌟 Always learning, always building. Let's secure the future together!
 
 <p align="left">
   <a href="mailto:miguelkent3@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
