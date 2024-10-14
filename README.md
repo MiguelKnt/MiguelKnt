@@ -28,9 +28,7 @@ Here are the certifications that showcase my skills and knowledge:
 
 ---
 
-## 🚀 Projects and Repositories
-
-Check out some of the key projects I've worked on:
+## 🚀 Key Projects 
 
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="110" style="margin-right: 10px;">
