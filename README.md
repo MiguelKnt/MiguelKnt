@@ -1,7 +1,5 @@
 # Hello, I'm Miguel Kent! 👋
 
-![Profile Picture](https://drive.google.com/uc?id=1bJHmKnl5Apq_J6_fBKaWXof7BfI6Emiz)
-
 **Cybersecurity Enthusiast | IT Professional | Continuous Learner**
 
 Welcome to my GitHub profile! I am passionate about cybersecurity, network protection, and building secure systems. With multiple certifications in cloud services, network security, and IT operations, I continuously strive to improve my skills and contribute to the tech community. Explore my repositories and check out the projects I've been working on!
