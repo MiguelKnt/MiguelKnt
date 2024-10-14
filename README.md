@@ -11,6 +11,22 @@ Welcome to my GitHub profile! I am passionate about cybersecurity, network prote
 
 ---
 
+## 🛠️ Technology Stack 
+
+<p>
+  <img src="https://img.shields.io/badge/Nessus-0A7E05?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus Badge"/>
+  <img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
+</p>
+
+---
+
 ## 📜 Certification Stack
 
 Here are the certifications that showcase my skills and knowledge:
@@ -48,27 +64,12 @@ Here are the certifications that showcase my skills and knowledge:
   </div>
 </div>
 
-## 💻 Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
-</p>
 
-### Cloud Services
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
-  <img src="https://img.shields.io/badge/Azure-008AD7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge"/>
-</p>
-
-### Security Tools
-<p>
-  <img src="https://img.shields.io/badge/Nessus-0A7E05?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus Badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge"/>
- <img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge"/>
 
 
 </p>
+
+</p>
+
 
