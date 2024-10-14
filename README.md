@@ -2,7 +2,15 @@
 
 **Cybersecurity Enthusiast | IT Professional | Continuous Learner**
 
-Welcome to my GitHub profile! I am passionate about cybersecurity, network protection, and building secure systems. Explore my repositories and check out the projects I've been working on!
+I'm an IT Support Analyst with a deep passion for cybersecurity, network protection, and secure system architecture. I will be showcasing a series of personal projects aimed at demonstrating my technical skills and expanding my knowledge in cybersecurity, IT support, and secure systems. Stay tuned as I continue to explore and build upon my expertise through hands-on, real-world solutions.
+
+💻 **Key Areas of Expertise:**
+- 🔒 Cybersecurity & Incident Response
+- 🖥️ System Administration
+- 🔧 IT Support & Troubleshooting
+- 📊 Network Protection & Vulnerability Scanning
+
+Check out my repositories to see the projects I've been working on
 
 <p align="left">
   <a href="mailto:miguelkent3@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -46,7 +54,7 @@ Here are the certifications that showcase my skills and knowledge:
 
 ---
 
-## 🚀 Key Projects 
+## 🚀 Key Projects and Repositories
 
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="110" style="margin-right: 10px;">
