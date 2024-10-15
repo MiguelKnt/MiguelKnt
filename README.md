@@ -57,7 +57,9 @@ Here are the certifications that showcase my skills and knowledge:
 ## 🚀 Featured Projects & Repositories
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="150" style="margin-right: 15px;">
+  <a href="https://github.com/MiguelKnt/Elastic-SIEM-Home-Lab/blob/main/SIEM_Home_Lab_Project_Presentation.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="150" style="margin-right: 15px;">
+  </a>
   <div>
     <strong>I configured and deployed an Elastic SIEM</strong><br>
     Monitored system logs and created custom alerts for network activity.
@@ -67,7 +69,9 @@ Here are the certifications that showcase my skills and knowledge:
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="150" style="margin-right: 15px;">
+  <a href="https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning/blob/main/Nessus_SMB_Vulnerability_Remediation.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="150" style="margin-right: 15px;">
+  </a>
   <div>
     <strong>I used Nessus to perform vulnerability scans</strong><br>
     Remediated issues found in a home lab environment.
