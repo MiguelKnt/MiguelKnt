@@ -77,3 +77,15 @@ Here are the certifications that showcase my skills and knowledge:
     Remediated issues found in a home lab environment.
   </div>
 </div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/Python-Keylogger-Local-Testing-Only-/blob/main/README.md" target="_blank">
+    <img src="https://github.com/MiguelKnt/Python-Keylogger-Local-Testing-Only-/blob/main/python-logo.png" alt="Python Keylogger" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>I developed a keylogger using Python (Research Only Use).</strong><br>
+    A keylogger records keystrokes on a system, often used to monitor user input.  project demonstrates the basic functionality of keyloggers.
+  </div>
+</div>
