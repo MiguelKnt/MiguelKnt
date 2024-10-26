@@ -69,6 +69,18 @@ Here are the certifications that showcase my skills and knowledge:
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/pfSense-Firewall-Project/blob/main/pfSense%20Firewall%20Project_%20Securing%20My%20Home%20Lab%20(1).pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/MiguelKnt/pfSense-Firewall-Project/main/Firewall%20Preview.png" alt="pfSense Firewall Preview" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>I set up a pfSense firewall in a virtual lab</strong><br>
+    Enhanced home network security by blocking specific websites and managing traffic with firewall rules.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning/blob/main/Nessus_SMB_Vulnerability_Remediation.pdf" target="_blank">
     <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="150" style="margin-right: 15px;">
   </a>
@@ -86,6 +98,6 @@ Here are the certifications that showcase my skills and knowledge:
   </a>
   <div>
     <strong>I developed a keylogger using Python (Research Only Use).</strong><br>
-    A keylogger records keystrokes on a system, often used to monitor user input.  project demonstrates the basic functionality of keyloggers.
+    A keylogger records keystrokes on a system, often used to monitor user input. This project demonstrates the basic functionality of keyloggers.
   </div>
 </div>
