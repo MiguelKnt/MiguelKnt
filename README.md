@@ -67,6 +67,18 @@ Here are the certifications that showcase my skills and knowledge:
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/Active-Directory-Homelab/blob/main/Active%20Directory%20Part%201%20(1).pdf" target="_blank">
+    <img src="https://github.com/MiguelKnt/Active-Directory-Homelab/blob/main/Active%20Directory%20preview%20image.jpg" alt="Active Directory Homelab Preview" width="150" style="margin-right: 15px; height: auto;">
+  </a>
+  <div>
+    <strong>Built My Own Active Directory Instance</strong><br>
+    A homelab project to set up and manage a fully functional Active Directory environment.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/pfSense-Firewall-Project/blob/main/pfSense%20Firewall%20Project_%20Securing%20My%20Home%20Lab%20(1).pdf" target="_blank">
     <img src="https://raw.githubusercontent.com/MiguelKnt/pfSense-Firewall-Project/main/Firewall%20Preview.png" alt="pfSense Firewall Preview" width="150" style="margin-right: 15px;">
   </a>
