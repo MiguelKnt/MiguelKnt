@@ -50,8 +50,6 @@ Here are the certifications that showcase my skills and knowledge:
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/64x64/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](https://www.credly.com/badges/141042aa-f085-4a18-b878-0e2672af1024/public_url)
 [![CompTIA Network+](https://images.credly.com/size/64x64/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png)](https://www.credly.com/badges/43aa8891-7533-4e10-90bf-e6c2cb1f0f73/public_url)
 
-
-
 ---
 
 ## 🚀 Featured Projects & Repositories
@@ -94,10 +92,11 @@ Here are the certifications that showcase my skills and knowledge:
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Python-Keylogger-Local-Testing-Only-/blob/main/README.md" target="_blank">
-    <img src="https://github.com/MiguelKnt/Python-Keylogger-Local-Testing-Only-/blob/main/python-logo.png" alt="Python Keylogger" width="150" style="margin-right: 15px;">
+    <img src="https://github.com/MiguelKnt/Python-Keylogger-Local-Testing-Only-/blob/main/python-logo.png" alt="Python Keylogger" width="100" style="margin-right: 15px; height: auto;">
   </a>
   <div>
     <strong>I developed a keylogger using Python (Research Only Use).</strong><br>
-    A keylogger records keystrokes on a system, often used to monitor user input. This project demonstrates the basic functionality of keyloggers.
+    This project demonstrates the basic functionality of keyloggers.
   </div>
 </div>
+
