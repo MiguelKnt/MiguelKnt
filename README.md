@@ -35,7 +35,7 @@ I'm an IT Support Analyst with a deep passion for cybersecurity, network protect
 
 ---
 
- ## 🎓 Professional Certifications
+## 🎓 Professional Certifications
 
 Here are the certifications that showcase my skills and knowledge:
 
@@ -53,6 +53,18 @@ Here are the certifications that showcase my skills and knowledge:
 ---
 
 ## 🚀 Featured Projects & Repositories
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/Active%20Directory%20Automation_%20User%20Management%20%26%20GPO%20Security.pdf" target="_blank">
+    <img src="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/image.png" alt="Active Directory GPO and PowerShell Automation Preview" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>Automated Active Directory User Management & GPO Security</strong><br>
+    Implemented PowerShell scripts to automate user management and apply GPO security measures for a more secure Active Directory environment.
+  </div>
+</div>
+
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Elastic-SIEM-Home-Lab/blob/main/SIEM_Home_Lab_Project_Presentation.pdf" target="_blank">
@@ -111,4 +123,3 @@ Here are the certifications that showcase my skills and knowledge:
     This project demonstrates the basic functionality of keyloggers.
   </div>
 </div>
-
