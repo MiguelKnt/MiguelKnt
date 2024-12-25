@@ -69,11 +69,23 @@ Here are the certifications that showcase my skills and knowledge:
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/NAS_Drive%20Mapping.pdf" target="_blank">
+    <img src="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/Network%20Drive%20Mapping.PNG" alt="Role Based Drive Mapping NAS Preview" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>Secure Network Drive Mapping</strong><br>
+    Configured role-based network drive mapping in a NAS environment with Active Directory integration.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Elastic-SIEM-Home-Lab/blob/main/SIEM_Home_Lab_Project_Presentation.pdf" target="_blank">
     <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="150" style="margin-right: 15px;">
   </a>
   <div>
-    <strong>I configured and deployed an Elastic SIEM</strong><br>
+    <strong>I Configured and Deployed an Elastic SIEM</strong><br>
     Monitored system logs and created custom alerts for network activity.
   </div>
 </div>
