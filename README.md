@@ -61,7 +61,7 @@ Here are the certifications that showcase my skills and knowledge:
     <img src="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/image.png" alt="Active Directory GPO and PowerShell Automation Preview" width="150" style="margin-right: 15px;">
   </a>
   <div>
-    <strong>Automated Active Directory User Management & GPO Security</strong><br>
+    <strong>Active Directory User Management & GPO Security</strong><br>
     Implemented PowerShell scripts to automate user management and apply GPO security measures for a more secure Active Directory environment.
   </div>
 </div>
