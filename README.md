@@ -43,13 +43,13 @@ Here are the certifications that showcase my skills and knowledge:
   <a href="https://www.credly.com/badges/318858b5-14da-4484-8f6e-74562b29bb6a/public_url"><img src="https://images.credly.com/size/64x64/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" style="width: 64px; height: 64px;"></a>
   <a href="https://www.credly.com/badges/c2c6523c-9a11-49e4-a189-816dd372a89c/public_url"><img src="https://images.credly.com/size/680x680/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" style="width: 64px; height: 64px;"></a>
   <a href="https://www.credly.com/badges/2694a9bc-83f4-402a-8744-7c2484fbcc9a/public_url"><img src="https://images.credly.com/size/64x64/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" style="width: 64px; height: 64px;"></a>
-  <a href="https://www.credly.com/badges/637d7259-f22f-4fc0-b39b-7895b12c0e9b/public_url"><img src="https://images.credly.com/size/64x64/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" style="width: 64px; height: 64px;"></a>
+  <a href="https://www.credly.com/badges/637d7259-f22f-4fc0-b39b-7895b12c0e9b/public_url"><img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" style="width: 64px; height: 64px;"></a>
   <a href="https://www.credly.com/badges/35748d57-2838-4e74-a6f1-cc9fd76ec091/public_url"><img src="https://images.credly.com/size/64x64/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" style="width: 64px; height: 64px;"></a>
-  <a href="https://www.credly.com/badges/3b67395f-85bd-49b3-8e5a-ba2d0481f891/public_url"><img src="https://images.credly.com/size/64x64/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png" style="width: 64px; height: 64px;"></a>
+  <a href="https://www.credly.com/badges/3b67395f-85bd-49b3-8e5a-ba2d0481f891/public_url"><img src="https://images.credly.com/size/680x680/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" style="width: 64px; height: 64px;"></a>
   <a href="https://www.credly.com/badges/ae6579d6-3e0a-447c-bc5f-9b8d82855770/public_url"><img src="https://images.credly.com/size/64x64/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="width: 64px; height: 64px;"></a>
-  <a href="https://www.credly.com/badges/4b76d54e-91aa-4b34-afb1-132948b07d8b/public_url"><img src="https://images.credly.com/size/680x680/images/eda22a60-7b46-426c-89df-681b25600b9f/blob" style="width: 70px; height: 70px;"></a>
+  <a href="https://www.credly.com/badges/4b76d54e-91aa-4b34-afb1-132948b07d8b/public_url"><img src="https://images.credly.com/size/680x680/images/5343b652-c9a0-418e-bfaf-7ed5a2ddd0c4/blob" style="width: 70px; height: 70px;"></a>
   <a href="https://www.credly.com/badges/141042aa-f085-4a18-b878-0e2672af1024/public_url"><img src="https://images.credly.com/size/64x64/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" style="width: 64px; height: 64px;"></a>
-  <a href="https://www.credly.com/badges/43aa8891-7533-4e10-90bf-e6c2cb1f0f73/public_url"><img src="https://images.credly.com/size/64x64/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" style="width: 64px; height: 64px;"></a>
+  <a href="https://www.credly.com/badges/43aa8891-7533-4e10-90bf-e6c2cb1f0f73/public_url"><img src="https://images.credly.com/size/160x160/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" style="width: 64px; height: 64px;"></a>
 </div>
 
 ---
