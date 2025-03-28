@@ -69,6 +69,18 @@ Here are the certifications that showcase my skills and knowledge:
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/M365-Domain-Integration-/blob/main/Microsoft%20365%20Domain%20Integration.pdf" target="_blank">
+    <img src="https://github.com/MiguelKnt/M365-Domain-Integration-/blob/main/Cover%20image.JPG?raw=true" alt="Microsoft 365 Domain Integration Preview" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>Integrated a Custom Domain into Microsoft 365</strong><br>
+   Configured DNS records and integrated a custom domain into Microsoft 365.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/NAS_Drive%20Mapping.pdf" target="_blank">
     <img src="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/Network%20Drive%20Mapping.PNG" alt="Role Based Drive Mapping NAS Preview" width="150" style="margin-right: 15px;">
   </a>
@@ -136,4 +148,6 @@ Here are the certifications that showcase my skills and knowledge:
     <strong>I developed a keylogger using Python (Research Only Use).</strong><br>
     This project demonstrates the basic functionality of keyloggers.
   </div>
-</div>
+</div>  
+
+---
