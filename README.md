@@ -74,7 +74,7 @@ Here are the certifications that showcase my skills and knowledge:
   </a>
   <div>
     <strong>Integrated a Custom Domain into Microsoft 365</strong><br>
-   Configured DNS records and integrated a custom domain into Microsoft 365.
+    Configured DNS records and integrated a custom domain into Microsoft 365.
   </div>
 </div>
 
@@ -93,16 +93,17 @@ Here are the certifications that showcase my skills and knowledge:
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://github.com/MiguelKnt/Elastic-SIEM-Home-Lab/blob/main/SIEM_Home_Lab_Project_Presentation.pdf" target="_blank">
-    <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="150" style="margin-right: 15px;">
+  <a href="https://github.com/MiguelKnt/Microsoft-Entra-Connect/blob/main/Microsoft%20Entra%20Connect%20.pdf" target="_blank">
+    <img src="https://github.com/MiguelKnt/Microsoft-Entra-Connect/blob/main/cover%20image.png" alt="Microsoft Entra Connect Preview" width="150" style="margin-right: 15px;">
   </a>
   <div>
-    <strong>I Configured and Deployed an Elastic SIEM</strong><br>
-    Monitored system logs and created custom alerts for network activity.
+    <strong>Integrated On-Premises AD with Microsoft Entra ID</strong><br>
+    Configured Microsoft Entra Connect to synchronize on-prem AD with Entra ID.
   </div>
 </div>
 
 ---
+
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Active-Directory-Homelab/blob/main/Active%20Directory%20Part%201%20(1).pdf" target="_blank">
@@ -129,6 +130,18 @@ Here are the certifications that showcase my skills and knowledge:
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/Elastic-SIEM-Home-Lab/blob/main/SIEM_Home_Lab_Project_Presentation.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>I Configured and Deployed an Elastic SIEM</strong><br>
+    Monitored system logs and created custom alerts for network activity.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning/blob/main/Nessus_SMB_Vulnerability_Remediation.pdf" target="_blank">
     <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="150" style="margin-right: 15px;">
   </a>
@@ -148,6 +161,6 @@ Here are the certifications that showcase my skills and knowledge:
     <strong>I developed a keylogger using Python (Research Only Use).</strong><br>
     This project demonstrates the basic functionality of keyloggers.
   </div>
-</div>  
+</div>
 
 ---
