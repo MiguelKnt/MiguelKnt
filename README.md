@@ -50,7 +50,10 @@ Here are the certifications that showcase my skills and knowledge:
   <a href="https://www.credly.com/badges/4b76d54e-91aa-4b34-afb1-132948b07d8b/public_url"><img src="https://images.credly.com/size/680x680/images/5343b652-c9a0-418e-bfaf-7ed5a2ddd0c4/blob" style="width: 70px; height: 70px;"></a>
   <a href="https://www.credly.com/badges/141042aa-f085-4a18-b878-0e2672af1024/public_url"><img src="https://images.credly.com/size/64x64/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" style="width: 64px; height: 64px;"></a>
   <a href="https://www.credly.com/badges/43aa8891-7533-4e10-90bf-e6c2cb1f0f73/public_url"><img src="https://images.credly.com/size/160x160/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" style="width: 64px; height: 64px;"></a>
+  <a href="https://www.credly.com/badges/1e19c984-27ab-439b-ab93-6a3b08286413/public_url"><img src="https://images.credly.com/size/64x64/images/701db568-0aec-461e-8857-d7ac313e0062/image.png" style="width: 64px; height: 64px;"></a>
 </div>
+
+
 
 ---
 
