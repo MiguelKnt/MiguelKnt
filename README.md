@@ -67,7 +67,7 @@ Here are the certifications that showcase my skills and knowledge:
           style="border-radius: 12px;"
         />
       </a>
-      <br><br>
+      <br>
       I executed a batch email migration<br>
       from Gmail to my Microsoft 365 tenant.
     </td>
