@@ -53,7 +53,7 @@ Here are the certifications that showcase my skills and knowledge:
   <a href="https://www.credly.com/badges/1e19c984-27ab-439b-ab93-6a3b08286413/public_url"><img src="https://images.credly.com/size/64x64/images/701db568-0aec-461e-8857-d7ac313e0062/image.png" style="width: 64px; height: 64px;"></a>
 </div>
 
-<h2>🎬 Featured Technical Walkthrough</h2>
+<h2>🎬 Technical Project Demos</h2>
 
 <table>
   <tr>
