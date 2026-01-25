@@ -54,7 +54,7 @@ Here are the certifications that showcase my skills and knowledge:
 </div>
 ---
 
-<h2>🚀 Featured Technical Walkthrough</h2>
+<h2>🎬 Featured Technical Walkthrough</h2>
 
 <table>
   <tr>
