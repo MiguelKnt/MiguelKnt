@@ -56,20 +56,26 @@ Here are the certifications that showcase my skills and knowledge:
 
 <h2>🚀 Featured Technical Walkthrough</h2>
 
-<p>
-  <a href="https://github.com/user-attachments/assets/02356ba0-1fa1-4277-89ee-96f482dbac5b" target="_blank">
-    <img 
-      src="https://github.com/MiguelKnt/MiguelKnt/blob/main/Migrating%20Emails%20to%20Microsoft.png?raw=true"
-      alt="Gmail to Microsoft 365 Email Migration Demo"
-      width="340"
-      style="border-radius: 12px;"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="340">
+      <a href="https://github.com/user-attachments/assets/02356ba0-1fa1-4277-89ee-96f482dbac5b" target="_blank">
+        <img
+          src="https://github.com/MiguelKnt/MiguelKnt/blob/main/Migrating%20Emails%20to%20Microsoft.png?raw=true"
+          alt="Gmail to Microsoft 365 Email Migration Demo"
+          width="340"
+          style="border-radius: 12px;"
+        />
+      </a>
+      <br><br>
+      I executed a batch email migration<br>
+      from Gmail to my Microsoft 365 tenant.
+    </td>
+  </tr>
+</table>
 
-<p>
-  I executed a mailbox migration into a Microsoft 365 tenant.
-</p>
+
+
 
 
 ---
