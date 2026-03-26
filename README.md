@@ -104,6 +104,23 @@ Here are the certifications that showcase my skills and knowledge:
 </div>
 
 ---
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/Intune-Zero-Trust-Deployment/blob/main/Zero_Trust_Project_Complete.pdf" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/MiguelKnt/Intune-Zero-Trust-Deployment/main/enterprise%20intune.JPG" 
+      alt="Zero Trust Deployment Preview" 
+      width="150" 
+      height="100"
+      style="object-fit: cover; margin-right: 15px;"
+    >
+  </a>
+  <div>
+    <strong>Enterprise Zero Trust Deployment (Intune + Entra ID)</strong><br>
+    Implemented Conditional Access (MFA), device compliance, and endpoint hardening using Microsoft Entra ID and Intune.
+  </div>
+</div>
+
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/NAS_Drive%20Mapping.pdf" target="_blank">
