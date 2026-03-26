@@ -105,7 +105,7 @@ Here are the certifications that showcase my skills and knowledge:
 
 ---
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://github.com/MiguelKnt/Intune-Zero-Trust-Deployment/blob/main/Zero_Trust_Project_Complete.pdf" target="_blank">
+  <a href="https://github.com/MiguelKnt/Intune-Zero-Trust-Deployment/blob/main/Enterprise%20Zero%20Trust%20Deployment%20Lab.pdf" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/MiguelKnt/Intune-Zero-Trust-Deployment/main/enterprise%20intune.JPG" 
       alt="Zero Trust Deployment Preview" 
