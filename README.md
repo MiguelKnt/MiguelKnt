@@ -53,30 +53,6 @@ Here are the certifications that showcase my skills and knowledge:
   <a href="https://www.credly.com/badges/1e19c984-27ab-439b-ab93-6a3b08286413/public_url"><img src="https://images.credly.com/size/64x64/images/701db568-0aec-461e-8857-d7ac313e0062/image.png" style="width: 64px; height: 64px;"></a>
 </div>
 
-<h2>🎬 Technical Project Demos</h2>
-
-<table>
-  <tr>
-    <td align="center" width="340">
-      <a href="https://github.com/user-attachments/assets/02356ba0-1fa1-4277-89ee-96f482dbac5b" target="_blank">
-        <img
-          src="https://github.com/MiguelKnt/MiguelKnt/blob/main/Migrating%20Emails%20to%20Microsoft.png?raw=true"
-          alt="Gmail to Microsoft 365 Email Migration Demo"
-          width="340"
-          style="border-radius: 12px;"
-        />
-      </a>
-      <br>
-      I executed a batch email migration<br>
-      from Gmail to my Microsoft 365 tenant.
-    </td>
-  </tr>
-</table>
-
-
-
-
-
 ---
 
 ## 🚀 Featured Projects & Repositories
@@ -204,5 +180,27 @@ Here are the certifications that showcase my skills and knowledge:
     This project demonstrates the basic functionality of keyloggers.
   </div>
 </div>
+
+---
+
+<h2>🎬 Technical Project Demos</h2>
+
+<table>
+  <tr>
+    <td align="center" width="340">
+      <a href="https://github.com/user-attachments/assets/02356ba0-1fa1-4277-89ee-96f482dbac5b" target="_blank">
+        <img
+          src="https://github.com/MiguelKnt/MiguelKnt/blob/main/Migrating%20Emails%20to%20Microsoft.png?raw=true"
+          alt="Gmail to Microsoft 365 Email Migration Demo"
+          width="340"
+          style="border-radius: 12px;"
+        />
+      </a>
+      <br>
+      I executed a batch email migration<br>
+      from Gmail to my Microsoft 365 tenant.
+    </td>
+  </tr>
+</table>
 
 ---
