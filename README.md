@@ -53,6 +53,31 @@ Here are the certifications that showcase my skills and knowledge:
   <a href="https://www.credly.com/badges/1e19c984-27ab-439b-ab93-6a3b08286413/public_url"><img src="https://images.credly.com/size/64x64/images/701db568-0aec-461e-8857-d7ac313e0062/image.png" style="width: 64px; height: 64px;"></a>
 </div>
 
+
+---
+
+## 🛡️ Featured Case Study
+
+<p align="center">
+  <strong style="font-size: 18px;">
+    Executive Impersonation (Whaling) Attack – Incident Response
+  </strong>
+</p>
+
+<p align="center" style="max-width: 600px; margin: 0 auto;">
+  Real-world phishing incident investigated and handled in a production environment.
+  Conducted domain intelligence (WHOIS), validated malicious infrastructure, and escalated abuse reports
+  to hosting and domain providers for mitigation.
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/MiguelKnt/Executive-Impersonation-Whaling-Attack">
+    <img src="https://img.shields.io/badge/View%20Full%20Case%20Study-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 Featured Projects & Repositories
