@@ -65,9 +65,9 @@ Here are the certifications that showcase my skills and knowledge:
 </p>
 
 <p align="center" style="max-width: 600px; margin: 0 auto;">
-  Real-world phishing incident investigated and handled in a production environment.
-  Conducted domain intelligence (WHOIS), validated malicious infrastructure, and escalated abuse reports
-  to hosting and domain providers for mitigation.
+  I investigated and responded to a real-world executive impersonation (whaling) phishing attack in a production environment.
+  I performed domain intelligence (WHOIS), validated malicious infrastructure, and escalated abuse reports
+  to hosting and domain providers to support mitigation efforts.
 </p>
 
 <br>
