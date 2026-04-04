@@ -83,6 +83,24 @@ Here are the certifications that showcase my skills and knowledge:
 ## 🚀 Featured Projects & Repositories
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/threat-intelligence-siem-pipeline/blob/main/Threat%20Intelligence%20Pipeline%20%26%20SIEM%20Detection%20Implementation.pdf" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/MiguelKnt/threat-intelligence-siem-pipeline/main/Cover%20Image%20Siem.png" 
+      alt="Threat Intelligence SIEM Pipeline Preview" 
+      width="150" 
+      height="100"
+      style="object-fit: cover; margin-right: 15px;"
+    >
+  </a>
+  <div>
+    <strong>Threat Intelligence Pipeline & SIEM Detection Framework</strong><br>
+    Built an end-to-end threat intelligence pipeline using Python automation and Splunk to collect, normalize, and ingest malicious IP data. Implemented correlation-based detection, alerting, dashboard visualization, enrichment, and a simulated incident response workflow.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/Active%20Directory%20Automation_%20User%20Management%20%26%20GPO%20Security.pdf" target="_blank">
     <img src="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/image.png" alt="Active Directory GPO and PowerShell Automation Preview" width="150" style="margin-right: 15px;">
   </a>
@@ -93,6 +111,22 @@ Here are the certifications that showcase my skills and knowledge:
 </div>
 
 ---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/threat-intelligence-siem-pipeline/blob/main/Threat%20Intelligence%20Pipeline%20%26%20SIEM%20Detection%20Implementation.pdf" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/MiguelKnt/threat-intelligence-siem-pipeline/main/Cover%20Image%20Siem.png" 
+      alt="Threat Intelligence SIEM Pipeline Preview" 
+      width="150" 
+      height="100"
+      style="object-fit: cover; margin-right: 15px;"
+    >
+  </a>
+  <div>
+    <strong>Threat Intelligence Pipeline & SIEM Detection Framework</strong><br>
+    Built an end-to-end threat intelligence pipeline using Python automation and Splunk to collect, normalize, and ingest malicious IP data. Implemented correlation-based detection, alerting, dashboard visualization, enrichment, and a simulated incident response workflow.
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/M365-Domain-Integration-/blob/main/Microsoft%20365%20Domain%20Integration.pdf" target="_blank">
