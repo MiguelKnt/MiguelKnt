@@ -248,18 +248,6 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://github.com/MiguelKnt/Python-Keylogger-Local-Testing-Only-/blob/main/README.md" target="_blank">
-    <img src="https://github.com/MiguelKnt/Python-Keylogger-Local-Testing-Only-/blob/main/python-logo.png" alt="Python Keylogger" width="100" style="margin-right: 15px; height: auto;">
-  </a>
-  <div>
-    <strong>I developed a keylogger using Python (Research Only Use).</strong><br>
-    This project demonstrates the basic functionality of keyloggers.
-  </div>
-</div>
-
----
-
 <h2>🎬 Technical Project Demos</h2>
 
 <table>
