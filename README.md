@@ -6,7 +6,7 @@ I'm a cybersecurity professional with an enterprise IT and infrastructure backgr
 
 This portfolio showcases cybersecurity projects, technical case studies, and security-focused implementations that demonstrate practical problem-solving, continuous learning, and the ability to build, monitor, and secure modern technology environments.
 
-## 💻 Key Areas of Expertise
+<h2>💻 Key Areas of Expertise</h2>
 
 - 🛡️ Security Operations & Detection Engineering
 - 🔐 Identity & Access Management (IAM)
@@ -14,8 +14,6 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 - 🌐 Infrastructure Security & Network Defense
 - ⚡ Vulnerability Management & Security Monitoring
 - ☁️ Microsoft 365, Azure & Enterprise Security Technologies
-
----
 
 🌟 **Building, monitoring, and securing technology environments through hands-on cybersecurity projects, continuous learning, and real-world security operations experience.**
 
