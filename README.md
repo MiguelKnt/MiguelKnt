@@ -134,7 +134,7 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Executive-Impersonation-Whaling-Attack" target="_blank">
     <img
-      src="YOUR_COVER_IMAGE_URL_HERE"
+      src="https://raw.githubusercontent.com/MiguelKnt/Executive-Impersonation-Whaling-Attack/refs/heads/main/images/case%20study%20cover_image.png"
       alt="Executive Impersonation Attack Preview"
       width="150"
       height="100"
