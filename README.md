@@ -1,8 +1,10 @@
 # Hello, I'm Miguel! 👋
 
-**Cybersecurity Enthusiast | IT Professional | Continuous Learner**
+**Cybersecurity Professional | Security Operations | Detection Engineering | Threat Detection**
 
-I'm an IT Support Analyst with a deep passion for cybersecurity, network protection, and secure system architecture. I will be showcasing a series of personal projects aimed at demonstrating my technical skills and expanding my knowledge in cybersecurity, IT support, and secure systems. Stay tuned as I continue to explore and build upon my expertise through hands-on, real-world solutions.
+I'm a cybersecurity professional with an enterprise IT and infrastructure background focused on security operations, detection engineering, identity and access management, and security monitoring. Through hands-on projects and real-world experience, I have developed practical expertise in threat detection, incident investigation, SIEM technologies, vulnerability management, and enterprise security controls.
+
+This portfolio showcases cybersecurity projects, technical case studies, and security-focused implementations that demonstrate practical problem-solving, continuous learning, and the ability to build, monitor, and secure modern technology environments.
 
 💻 **Key Areas of Expertise:**
 - 🔒 Cybersecurity & Incident Response
