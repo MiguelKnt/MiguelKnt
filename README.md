@@ -70,7 +70,7 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 
 ---
 
-<h3> 🛡️ Featured Case Study</h3>
+<h3> 🛡️ Featured Project</h3>
 
 <p align="center">
   <strong style="font-size: 18px;">
