@@ -6,13 +6,18 @@ I'm a cybersecurity professional with an enterprise IT and infrastructure backgr
 
 This portfolio showcases cybersecurity projects, technical case studies, and security-focused implementations that demonstrate practical problem-solving, continuous learning, and the ability to build, monitor, and secure modern technology environments.
 
-💻 **Key Areas of Expertise:**
-- 🔒 Cybersecurity & Incident Response
-- 🖥️ System Administration
-- 🔧 IT Support & Troubleshooting
-- 📊 Network Protection & Vulnerability Scanning
+## 💻 Key Areas of Expertise
 
-🌟 Always learning, always building. Let's secure the future together!
+- 🛡️ Security Operations & Detection Engineering
+- 🔐 Identity & Access Management (IAM)
+- 📊 SIEM, Threat Detection & Incident Investigation
+- 🌐 Infrastructure Security & Network Defense
+- ⚡ Vulnerability Management & Security Monitoring
+- ☁️ Microsoft 365, Azure & Enterprise Security Technologies
+
+---
+
+🌟 **Building, monitoring, and securing technology environments through hands-on cybersecurity projects, continuous learning, and real-world security operations experience.**
 
 <p align="left">
   <a href="mailto:miguelkent3@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -24,15 +29,29 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 ## 🛠️ Technology Stack 
 
 <p>
-  <img src="https://img.shields.io/badge/Nessus-0A7E05?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus Badge"/>
-  <img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Badge"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge"/>
+  
+  <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory Badge"/>
+  
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Entra ID Badge"/>
+  
+  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune Badge"/>
+  
+  <img src="https://img.shields.io/badge/Sysmon-4B0082?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Sysmon Badge"/>
+  
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge"/>
+  
+  <img src="https://img.shields.io/badge/Nessus-0A7E05?style=for-the-badge&logoColor=white" alt="Nessus Badge"/>
+  
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge"/>
+  
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux Badge"/>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365 Badge"/>
+  
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
 </p>
 
 ---
