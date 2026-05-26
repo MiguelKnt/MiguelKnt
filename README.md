@@ -236,18 +236,6 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://github.com/MiguelKnt/Elastic-SIEM-Home-Lab/blob/main/SIEM_Home_Lab_Project_Presentation.pdf" target="_blank">
-    <img src="https://raw.githubusercontent.com/MiguelKnt/Elastic-SIEM-Home-Lab/main/Siem%20Preview.jpg" alt="Elastic SIEM Preview" width="150" style="margin-right: 15px;">
-  </a>
-  <div>
-    <strong>I Configured and Deployed an Elastic SIEM</strong><br>
-    Monitored system logs and created custom alerts for network activity.
-  </div>
-</div>
-
----
-
 <h2>🎬 Technical Project Demos</h2>
 
 <table>
