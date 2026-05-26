@@ -132,6 +132,24 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/Executive-Impersonation-Whaling-Attack" target="_blank">
+    <img
+      src="YOUR_COVER_IMAGE_URL_HERE"
+      alt="Executive Impersonation Attack Preview"
+      width="150"
+      height="100"
+      style="object-fit: cover; margin-right: 15px;"
+    >
+  </a>
+  <div>
+    <strong>Executive Impersonation (Whaling) Attack Investigation</strong><br>
+    Investigated and responded to a real-world executive impersonation phishing attack by validating malicious infrastructure, performing domain intelligence analysis, and supporting mitigation efforts through abuse reporting and escalation workflows.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/Active%20Directory%20Automation_%20User%20Management%20%26%20GPO%20Security.pdf" target="_blank">
     <img src="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/image.png" alt="Active Directory GPO and PowerShell Automation Preview" width="150" style="margin-right: 15px;">
   </a>
