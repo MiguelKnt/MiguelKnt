@@ -70,25 +70,34 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 
 ---
 
-<h3> 🛡️ Featured Project</h3>
+<h3>  🛡️ Featured Project </h3>
 
 <p align="center">
   <strong style="font-size: 18px;">
-    Executive Impersonation (Whaling) Attack – Incident Response
+    Security Operations & Detection Engineering Platform
   </strong>
 </p>
 
-<p align="center" style="max-width: 600px; margin: 0 auto;">
-  Investigated and responded to a real-world executive impersonation (whaling) phishing attack in a production environment.
-  Performed domain intelligence (WHOIS), validated malicious infrastructure, and escalated abuse reports
-  to hosting and domain providers to support mitigation efforts.
+<p align="center">
+  <a href="https://github.com/MiguelKnt/Security-Operations-Detection-Engineering-Platform/blob/main/Security_Operations_and_Detection_Engineering_Platform_Part_1.pdf">
+    <img
+      src="https://raw.githubusercontent.com/MiguelKnt/Security-Operations-Detection-Engineering-Platform/refs/heads/main/cover%20image.PNG"
+      alt="Security Operations and Detection Engineering Platform"
+      width="650"
+      style="border-radius: 10px;"
+    />
+  </a>
+</p>
+
+<p align="center" style="max-width: 700px; margin: 0 auto;">
+Designed and deployed a multi-platform Security Operations environment utilizing Splunk Enterprise, Sysmon, Windows, Kali Linux, and Ubuntu Server to simulate enterprise SOC operations. Built centralized telemetry pipelines, developed ATT&CK-aligned detections, conducted adversary simulations, performed threat hunting activities, and investigated security events through correlation of endpoint, authentication, and network telemetry.
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/MiguelKnt/Executive-Impersonation-Whaling-Attack">
-    <img src="https://img.shields.io/badge/View%20Full%20Case%20Study-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/MiguelKnt/Security-Operations-Detection-Engineering-Platform/blob/main/Security_Operations_and_Detection_Engineering_Platform_Part_1.pdf">
+    <img src="https://img.shields.io/badge/View%20Full%20Project-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
