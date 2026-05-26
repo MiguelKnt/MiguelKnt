@@ -94,7 +94,7 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 
 ---
 
-<h3> 🚀 Featured Projects & Repositories </h3>
+<h3> 🚀 Projects & Repositories </h3>
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/threat-intelligence-siem-pipeline/blob/main/Threat%20Intelligence%20Pipeline%20%26%20SIEM%20Detection%20Implementation.pdf" target="_blank">
