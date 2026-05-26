@@ -6,7 +6,7 @@ I'm a cybersecurity professional with an enterprise IT and infrastructure backgr
 
 This portfolio showcases cybersecurity projects, technical case studies, and security-focused implementations that demonstrate practical problem-solving, continuous learning, and the ability to build, monitor, and secure modern technology environments.
 
-<h2>💻 Key Areas of Expertise</h2>
+<h3>💻 Key Areas of Expertise</h3>
 
 - 🛡️ Security Operations & Detection Engineering
 - 🔐 Identity & Access Management (IAM)
@@ -17,14 +17,9 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 
 🌟 **Building, monitoring, and securing technology environments through hands-on cybersecurity projects, continuous learning, and real-world security operations experience.**
 
-<p align="left">
-  <a href="mailto:miguelkent3@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/miguelkent/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 ---
 
-## 🛠️ Technology Stack 
+<h3> 🛠️ Technology Stack</h3> 
 
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge"/>
@@ -54,9 +49,7 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 
 ---
 
-## 🎓 Professional Certifications
-
-Here are the certifications that showcase my skills and knowledge:
+<h3> 🎓 Professional Certifications </h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
   <a href="https://www.credly.com/badges/318858b5-14da-4484-8f6e-74562b29bb6a/public_url"><img src="https://images.credly.com/size/64x64/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" style="width: 64px; height: 64px;"></a>
@@ -77,7 +70,7 @@ Here are the certifications that showcase my skills and knowledge:
 
 ---
 
-## 🛡️ Featured Case Study
+<h3> 🛡️ Featured Case Study</h3>
 
 <p align="center">
   <strong style="font-size: 18px;">
@@ -101,7 +94,7 @@ Here are the certifications that showcase my skills and knowledge:
 
 ---
 
-## 🚀 Featured Projects & Repositories
+<h3> 🚀 Featured Projects & Repositories </h3>
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/threat-intelligence-siem-pipeline/blob/main/Threat%20Intelligence%20Pipeline%20%26%20SIEM%20Detection%20Implementation.pdf" target="_blank">
