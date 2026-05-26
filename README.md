@@ -113,32 +113,6 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 </div>
 
 ---
-
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/Active%20Directory%20Automation_%20User%20Management%20%26%20GPO%20Security.pdf" target="_blank">
-    <img src="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/image.png" alt="Active Directory GPO and PowerShell Automation Preview" width="150" style="margin-right: 15px;">
-  </a>
-  <div>
-    <strong>Active Directory User Management & GPO Security</strong><br>
-    Implemented PowerShell scripts to automate user management and apply GPO security measures for a more secure Active Directory environment.
-  </div>
-</div>
-
----
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://github.com/MiguelKnt/M365-Domain-Integration-/blob/main/Microsoft%20365%20Domain%20Integration.pdf" target="_blank">
-    <img src="https://github.com/MiguelKnt/M365-Domain-Integration-/blob/main/Cover%20image.JPG?raw=true" alt="Microsoft 365 Domain Integration Preview" width="150" style="margin-right: 15px;">
-  </a>
-  <div>
-    <strong>Integrated a Custom Domain into Microsoft 365</strong><br>
-    Configured DNS records and integrated a custom domain into Microsoft 365.
-  </div>
-</div>
-
----
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Intune-Zero-Trust-Deployment/blob/main/Enterprise%20Zero%20Trust%20Deployment%20Lab.pdf" target="_blank">
     <img 
@@ -158,12 +132,24 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/NAS_Drive%20Mapping.pdf" target="_blank">
-    <img src="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/Network%20Drive%20Mapping.PNG" alt="Role Based Drive Mapping NAS Preview" width="150" style="margin-right: 15px;">
+  <a href="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/Active%20Directory%20Automation_%20User%20Management%20%26%20GPO%20Security.pdf" target="_blank">
+    <img src="https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/image.png" alt="Active Directory GPO and PowerShell Automation Preview" width="150" style="margin-right: 15px;">
   </a>
   <div>
-    <strong>Secure Network Drive Mapping</strong><br>
-    Configured role-based network drive mapping in a NAS environment with Active Directory integration.
+    <strong>Active Directory User Management & GPO Security</strong><br>
+    Implemented PowerShell scripts to automate user management and apply GPO security measures for a more secure Active Directory environment.
+  </div>
+</div>
+
+---
+ 
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning/blob/main/Nessus_SMB_Vulnerability_Remediation.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>I used Nessus to perform vulnerability scans</strong><br>
+    Remediated issues found in a home lab environment.
   </div>
 </div>
 
@@ -181,7 +167,6 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
 
 ---
 
-
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <a href="https://github.com/MiguelKnt/Active-Directory-Homelab/blob/main/Active%20Directory%20Part%201%20(1).pdf" target="_blank">
     <img src="https://github.com/MiguelKnt/Active-Directory-Homelab/blob/main/Active%20Directory%20preview%20image.jpg" alt="Active Directory Homelab Preview" width="150" style="margin-right: 15px; height: auto;">
@@ -189,6 +174,33 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
   <div>
     <strong>Built My Own Active Directory Instance</strong><br>
     A homelab project to set up and manage a fully functional Active Directory environment.
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/NAS_Drive%20Mapping.pdf" target="_blank">
+    <img src="https://github.com/MiguelKnt/RoleBased-Drive-Mapping-NAS/blob/main/Network%20Drive%20Mapping.PNG" alt="Role Based Drive Mapping NAS Preview" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>Secure Network Drive Mapping</strong><br>
+    Configured role-based network drive mapping in a NAS environment with Active Directory integration.
+  </div>
+</div>
+
+---
+
+ </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <a href="https://github.com/MiguelKnt/M365-Domain-Integration-/blob/main/Microsoft%20365%20Domain%20Integration.pdf" target="_blank">
+    <img src="https://github.com/MiguelKnt/M365-Domain-Integration-/blob/main/Cover%20image.JPG?raw=true" alt="Microsoft 365 Domain Integration Preview" width="150" style="margin-right: 15px;">
+  </a>
+  <div>
+    <strong>Integrated a Custom Domain into Microsoft 365</strong><br>
+    Configured DNS records and integrated a custom domain into Microsoft 365.
   </div>
 </div>
 
@@ -213,18 +225,6 @@ This portfolio showcases cybersecurity projects, technical case studies, and sec
   <div>
     <strong>I Configured and Deployed an Elastic SIEM</strong><br>
     Monitored system logs and created custom alerts for network activity.
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <a href="https://github.com/MiguelKnt/Nessus-Vulnerability-Scanning/blob/main/Nessus_SMB_Vulnerability_Remediation.pdf" target="_blank">
-    <img src="https://raw.githubusercontent.com/MiguelKnt/Nessus-Vulnerability-Scanning/main/Nessus%20Preview.jpg" alt="Nessus Preview" width="150" style="margin-right: 15px;">
-  </a>
-  <div>
-    <strong>I used Nessus to perform vulnerability scans</strong><br>
-    Remediated issues found in a home lab environment.
   </div>
 </div>
 
